@@ -5,6 +5,8 @@ If yes, the program should print YES, otherwise print NO.
 The program should ignore the case sensitivity of characters.
 
 
+
+
 Sample input 1:
 bat
 Tab
@@ -20,6 +22,7 @@ Sample Output 2:
 NO
 """
 
+#***Performance need to be improved for this program***
 
 import itertools
 
